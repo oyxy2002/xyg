@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{text-align:center;font-size:16px}
+h1{text-align:center;font-family:方正姚体,黑体,宋体;font-size:20px;font-weight:bold;color:#399}
+a{color:#906;text-decoration:none;}
+p{text-indent:2em;line-height:2em;}
+h2{text-align:center;font-family:黑体;font-size:16px;}
+.nav{text-align:center;background-color:#9F0;margin-left:15%;margin-right:15%;font-size:18px;}
+.copyright{text-align:center;margin-bottom:10px;}
+li{height:30px;line-height:30px;text-align:left;text-decoration:underline}
